@@ -1,0 +1,59 @@
+[
+    {
+      "title": "All-Time Profit",
+      "amount": 1000.5,
+      "target": 2000,
+      "isCurrency": true,
+      "percentage": 20.35,
+      "breakdown": {
+        "month": { "value": 800, "percentage": 10 },
+        "week": { "value": 500, "percentage": 6 },
+        "day": { "value": 250, "percentage": 3 },
+        "lastUpdated": "2025-03-22T10:30:00Z"
+      },
+      "sparklineData": [800, 900, 950, 980, 1000, 1000.5]
+    },
+    {
+      "title": "Revenue",
+      "amount": 875.75,
+      "target": 2000,
+      "isCurrency": true,
+      "percentage": 15.65,
+      "breakdown": {
+        "month": { "value": 650, "percentage": 9 },
+        "week": { "value": 420, "percentage": 5 },
+        "day": { "value": 180, "percentage": 2 },
+        "lastUpdated": "2025-03-22T10:30:00Z"
+      },
+      "sparklineData": [600, 650, 700, 750, 800, 875.75]
+    },
+    {
+      "title": "Growth",
+      "amount": -350.75,
+      "target": 2000,
+      "isCurrency": true,
+      "percentage": -12.85,
+      "breakdown": {
+        "month": { "value": -270, "percentage": -7 },
+        "week": { "value": -180, "percentage": -4 },
+        "day": { "value": -90, "percentage": -1.5 },
+        "lastUpdated": "2025-03-22T10:30:00Z"
+      },
+      "sparklineData": [380, 370, 360, 350, 340, 330]
+    },
+    {
+      "title": "Total Users",
+      "amount": 1500,
+      "target": 2000,
+      "isCurrency": false,
+      "percentage": 10.42,
+      "breakdown": {
+        "month": { "value": 1300, "percentage": 8 },
+        "week": { "value": 900, "percentage": 4 },
+        "day": { "value": 400, "percentage": 1.5 },
+        "lastUpdated": "2025-03-22T10:30:00Z"
+      },
+      "sparklineData": [1000, 1100, 1200, 1350, 1400, 1500]
+    }
+  ]
+  
